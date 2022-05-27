@@ -1,0 +1,181 @@
+body {
+    text-align: center;
+    margin: 0px;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+
+h1 {
+    margin: 0px;
+    font-family: "Dancing Script", cursive;
+    font-size: 700%;
+}
+
+h2 {
+    margin: 0px;
+    padding-top: 8vh;
+    font-size: 400%;
+    color: #FF7844;
+}
+
+h3 {
+    color: #94F3E4;
+}
+
+hr {
+    margin: 40px 0px 40px 0px;
+}
+
+p {
+    margin: 0px;
+    font-family: "Merriweather";
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+  }
+
+a:visited {
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover {
+    color: salmon;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.header {
+    margin-bottom: 8vh;
+    padding-top: 5vh
+}
+
+.home-container {
+    margin: 0px;
+    color:#1E2022;
+    padding-top: 40vh;
+    width: 100vw;
+    height: 60vh;
+    position: relative;
+    background-image: url("/images/home-background.jpg");
+    background-size: cover;
+}
+
+.about-container {
+    background-color: #212121;
+    width: 100vw;
+    height: 100vh;
+}
+
+.about-content {
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+    line-height: 2;
+    color: #EEEEEE;
+    text-align: left;
+}
+
+.resume-container {
+    background-color: #EEEEEE;
+    margin: 0px;
+    width: 100vw;
+}
+
+.resume-content {
+    width: 50%;
+    margin: auto;
+}
+
+.projects-container {
+    background-color: #323232;
+    margin: 0px;
+    width: 100vw;
+    background-image: url("/images/dark-background.jpg");
+    background-size: cover;
+}
+
+.project-content {
+    width: 60%;
+    margin: auto;
+    padding-bottom: 15vh;
+    color: white;
+}
+
+.project-row {
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 50px;
+}
+
+.project-image-left {
+    float: left;
+    margin-right: 3vw;
+    width: 18%;
+}
+
+.project-image-right {
+    float: right;
+    margin-left: 3vw;
+    width: 18%;
+}
+
+.contact-container {
+    background-color: #212121;
+    margin: 0px;
+    width: 100vw;
+}
+
+.contact-content {
+    height: 40vh;
+    margin: auto;
+    width: 50vw;
+}
+
+.contact-col {
+    width: 25%;
+    height: 45%;
+    float: left;
+    color: white;
+}
+
+.footer {
+    background-color: #111111;
+    color: #555555;
+    margin: 0px;
+    height: 10vh;
+    width: 100vw;
+}
+
+.footer-content {
+    margin: auto;
+    padding-top: 4vh;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 500px;
+    top: 120px
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 500px;
+    top: 350px;
+}
+
+#photo-credit {
+    padding-top: 35vh;
+    color: black;
+}
+
+#picture {
+    float: left;
+    margin-right: 2vw;
+}
