@@ -91,6 +91,7 @@ a:active {
 .resume-content {
     width: 50%;
     margin: auto;
+    padding-bottom: 15vh;
 }
 
 .projects-container {
