@@ -94,6 +94,29 @@ a:active {
     padding-bottom: 15vh;
 }
 
+.resume-title {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.resume-time-place {
+    height: 3vh;
+}
+
+.resume-time {
+    float: left;
+    margin: 0px;
+}
+
+.resume-place {
+    float: right;
+    margin: 0px;
+}
+
+.resume-description {
+    text-align: left;
+}
+
 .projects-container {
     background-color: #323232;
     margin: 0px;
