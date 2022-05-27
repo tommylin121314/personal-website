@@ -63,7 +63,7 @@ a:active {
     width: 100vw;
     height: 60vh;
     position: relative;
-    background-image: url("/images/home-background.jpg");
+    background-image: url("../images/home-background.jpg");
     background-size: cover;
 }
 
@@ -98,7 +98,7 @@ a:active {
     background-color: #323232;
     margin: 0px;
     width: 100vw;
-    background-image: url("/images/dark-background.jpg");
+    background-image: url("../images/dark-background.jpg");
     background-size: cover;
 }
 
