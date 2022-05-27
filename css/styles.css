@@ -202,4 +202,5 @@ a:active {
 #picture {
     float: left;
     margin-right: 2vw;
+    height: 30vh;
 }
